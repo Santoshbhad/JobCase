@@ -1,0 +1,8 @@
+templateScript: /job-case-cms-templates/templates/components/RichTextComponent.ftl
+renderType: freemarker
+title: RichTextComponent
+dialog: job-case-cms-templates:components/RichTextComponent
+
+
+
+

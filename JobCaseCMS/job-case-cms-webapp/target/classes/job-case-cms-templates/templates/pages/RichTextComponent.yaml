@@ -1,0 +1,11 @@
+templateScript: /job-case-cms-templates/templates/pages/RichTextComponent.ftl
+renderType: freemarker
+visible: true
+title: Rich Text Component
+dialog: magnolia-project-example-webapp:pages/hello
+areas:
+  main:
+    renderType: freemarker
+    availableComponents:
+      RichTextComponent:
+        id: job-case-cms-templates:components/RichTextComponent

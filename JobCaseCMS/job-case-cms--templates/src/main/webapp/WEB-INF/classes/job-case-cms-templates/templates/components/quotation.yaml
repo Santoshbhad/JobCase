@@ -1,0 +1,4 @@
+templateScript: /job-case-cms-templates/templates/components/quotation.ftl
+renderType: freemarker
+title: Quotation
+dialog: job-case-cms-templates:components/quotation

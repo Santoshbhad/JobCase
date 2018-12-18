@@ -1,0 +1,11 @@
+templateScript: /job-case-cms-templates/templates/pages/hello.ftl
+renderType: freemarker
+visible: true
+title: Hello
+dialog: job-case-cms-templates:pages/hello
+areas:
+  main:
+    renderType: freemarker
+    availableComponents:
+      quotation:
+        id: job-case-cms-templates:components/quotation

@@ -1,0 +1,4 @@
+templateScript: /job-case-cms-templates/templates/pages/RichTextComponent.ftl
+renderType: freemarker
+title: Text with image
+dialog: magnolia-project-example-webapp:components/textImage
